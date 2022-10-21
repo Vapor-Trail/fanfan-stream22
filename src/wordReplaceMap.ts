@@ -66,6 +66,10 @@ export const wordReplaceMap: Record<string, string> = {
     "https://cdn.betterttv.net/emote/566c9fc265dbbdab32ec053b/2x",
   Smadge:
     "https://cdn.7tv.app/emote/6316a7fe8e1ba8ff6ec1551d/2x.webp",
+  peepoClap:
+    "https://cdn.betterttv.net/emote/61b70c74002cdeedc21f423d/2x",
+  HYPERS:
+    "//cdn.frankerfacez.com/emote/515983/2",
 
   // exceptions
   nidaClown:
