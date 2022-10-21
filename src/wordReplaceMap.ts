@@ -54,6 +54,18 @@ export const wordReplaceMap: Record<string, string> = {
     "//static-cdn.jtvnw.net/emoticons/v2/emotesv2_c079d42bbaa944368e5f600c6c0f3e5b/default/dark/2.0",
   Sadge:
     "//cdn.frankerfacez.com/emote/518576/2",
+  Drake:
+    "https://cdn.betterttv.net/emote/6339cadae6cf26500b4255bf/2x",
+  PainsChamp:
+    "https://cdn.betterttv.net/emote/61583fe4b63cc97ee6d46d58/2x",
+  COPIUM:
+    "//cdn.frankerfacez.com/emote/663211/2",
+  peepoRiot:
+    "https://cdn.betterttv.net/emote/63385fa3e6cf26500b423961/2x",
+  FeelsBadMan:
+    "https://cdn.betterttv.net/emote/566c9fc265dbbdab32ec053b/2x",
+  Smadge:
+    "https://cdn.7tv.app/emote/6316a7fe8e1ba8ff6ec1551d/2x.webp",
 
   // exceptions
   nidaClown:
