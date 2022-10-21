@@ -52,6 +52,8 @@ export const wordReplaceMap: Record<string, string> = {
     "//static-cdn.jtvnw.net/emoticons/v2/306282608/default/dark/2.0",
   fanfDance:
     "//static-cdn.jtvnw.net/emoticons/v2/emotesv2_c079d42bbaa944368e5f600c6c0f3e5b/default/dark/2.0",
+  Sadge:
+    "//cdn.frankerfacez.com/emote/518576/2",
 
   // exceptions
   nidaClown:
